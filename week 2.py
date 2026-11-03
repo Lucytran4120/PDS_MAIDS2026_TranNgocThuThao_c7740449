@@ -94,7 +94,7 @@ diem = np.array([5, 8, 3, 9, 6, 10])
 
 #a = np.array([4, 8, 6, 2, 10])
 
-#np.sum(a)       # 30     tổng
+np.sum(a)       # 30     tổng
 #np.mean(a)      # 6.0    trung bình
 #np.median(a)    # 6.0    số ở giữa khi xếp thứ tự
 #np.max(a)       # 10     lớn nhất
